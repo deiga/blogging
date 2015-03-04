@@ -3,7 +3,7 @@
 A lot of my friends and colleagues tend to turn to me when they need advice on good software for OS X.
 I've used OS X for many years now, both personally and professionally, and have always felt the need to improve my workflow and the tools I use, so I've tested _a lot_ of stuff out there.
 A colleague of mine suggested I do a write-up of how I setup my machine and here we are.
-This is mostly targeted for a development machine, but I use the exact same setup for my personal machines too.
+This blog post mostly targeted for a development machine, but I use the exact same setup for my personal machines too.
 
 ## Setup
 
@@ -66,7 +66,7 @@ Currently it's the best free solution on the market, though `Github for Mac` is 
 I used to roll with `Sublime Text 2` before this, but since last year I've migrated to `Atom`.
 An editor which is free and open-source, with an active community and development team?
 Hells yes!
-It's fully extendable, with it's extensions written in JavaScript, and the core team has no problem with accepting pull requests.
+It's fully extendable, with its extensions written in JavaScript, and the core team has no problem with accepting pull requests.
 * [_Google Chrome_](http://www.google.com/chrome/) I usually install `Opera`, `Firefox`, `Safari` and `Chrome` but for my day-to-day use, it's `Chrome`.
 There are many extensions and features which I couldn't live without and it isn't even that bad of a browser, maybe a bit memory heavy (and lacks the damn workspaces from Firefox, and even they stopped using them :frowning: )
 
@@ -87,12 +87,12 @@ This is of course way too much 'pre-setup', so I'm working on a script to handle
 
 There are loads of apps which I use and which are mostly necessary on a personal level.
 
-Two apps I can't live without are [Karabiner](https://pqrs.org/osx/karabiner/) and [Seil](https://pqrs.org/osx/karabiner/seil.html.en), they allow me to remap keys on my keyboard and thus work a lot faster.
+Two apps I can't live without are [Karabiner](https://pqrs.org/osx/karabiner/) and [Seil](https://pqrs.org/osx/karabiner/seil.html.en) as they allow me to remap keys on my keyboard and thus work a lot faster.
 
 I've completely removed <kbd>CAPSLOCK</kbd> functionality from my keyboard and instead the key acts as <kbd>ESC</kbd> when pressed for a short time and <kbd>CONTROL</kbd> when pressed for a long time.
 I've also changed my <kbd>SHIFT</kbd> keys to produce left and right braces, respectively, on short presses.
 I've also bound all modifiers to the actual <kbd>CTRL</kbd> key, to resemble the <kbd>HYPER</kbd> modifier of the old [Space Cadet keyboard](http://world.std.com/~jdostale/kbd/SpaceCadet.html).
 
-[ControlPlane](http://www.controlplaneapp.com/) Is an app which can determine contexts based on location, time of day, etc.
+[ControlPlane](http://www.controlplaneapp.com/) is an app which can determine contexts based on location, time of day, etc.
 These context can close apps, set sound level, start apps and a whole lot of useful actions.
 I've set it up to lock my screen when I'm not at my laptop, when outside my home and to close all unnecessary battery draining apps when on battery power. These are just a few examples of what it can do.
