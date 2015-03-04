@@ -68,7 +68,7 @@ An editor which is free and open-source, with an active community and developmen
 Hells yes!
 It's fully extendable, with it's extensions are written in JavaScript, and the core team has no problem with accepting pull requests.
 * [_Google Chrome_](http://www.google.com/chrome/) I usually install `Opera`, `Firefox`, `Safari` and `Chrome` but for my day-to-day, it's `Chrome`.
-There are many extensions and features which I couldn't live without and it isn't even that bad of a browser, maybe a bit memory heavy (and lacks the damn workspaces from Firefox, and even they stopped using them :( )
+There are many extensions and features which I couldn't live without and it isn't even that bad of a browser, maybe a bit memory heavy (and lacks the damn workspaces from Firefox, and even they stopped using them :frowning: )
 
 ### Terminal configuration
 
